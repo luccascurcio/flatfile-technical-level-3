@@ -70,7 +70,7 @@ npm run migration
 
 ## Instructions
 
-1. Create a repository from the zip that contains this exercise
+1. Create a Github/Gitlab repository from the zip that contains this exercise
 2. Complete one of the three features listed below.
 3. Identify bugs and inefficiencies
 4. Once complete, open up a PR
