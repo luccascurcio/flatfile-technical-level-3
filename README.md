@@ -6,6 +6,8 @@ This challenge is based around a [Trello](https://trello.com/en-US) clone. It in
 
 At Flatfile we [value work/life balance](https://flatfile.io/careers/). This assessment is not timed and we don't expect you to design a production ready application. We're more interested in your approach, so don't get too caught up on how much time you're taking. Have fun with it! Beyond being fun we also want this challenge to be informative, realistic, and well defined. For these reasons feedback is very much welcomed.
 
+:warning: Before starting, fork this repository to your personal Github or Gitlab account.
+
 ## Setup
 
 ### Prerequisites
