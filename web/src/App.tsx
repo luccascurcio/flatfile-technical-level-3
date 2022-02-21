@@ -45,6 +45,8 @@ function App() {
           section.cards.push({
             id: response.data.id,
             title: response.data.title,
+            description: '',
+            images: '',
             section_id: sectionId
           })
           setSections(sectionsClone)
